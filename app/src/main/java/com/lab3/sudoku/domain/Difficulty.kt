@@ -3,7 +3,6 @@ package com.lab3.sudoku.domain
 enum class GameMode(val boxSize: Int) {
     SMALL(2),
     CLASSIC(3),
-    LARGE(4)
 }
 
 const val MAX_HINTS = 3

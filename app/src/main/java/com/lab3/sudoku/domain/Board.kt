@@ -3,7 +3,7 @@ package com.lab3.sudoku.domain
 class Board(val boxSize: Int) {
 
     init {
-        require(boxSize in 2..4) { "boxSize must be 2, 3 or 4" }
+        require(boxSize in 2..3) { "boxSize must be 2 or 3" }
     }
 
     val size = boxSize * boxSize
