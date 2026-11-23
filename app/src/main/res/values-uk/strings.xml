@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Судоку</string>
+    <string name="btn_new_game">Нова гра</string>
+    <string name="btn_erase">Стерти</string>
+    <string name="btn_hint">Підказка (%1$d)</string>
+    <string name="btn_start">Почати</string>
+    <string name="msg_solved">Розв\'язано!</string>
+    <string name="title_difficulty">Складність</string>
+    <string name="difficulty_easy">Легкий</string>
+    <string name="difficulty_medium">Середній</string>
+    <string name="difficulty_hard">Складний</string>
+    <string name="title_size">Розмір поля</string>
+    <string name="size_small">4×4</string>
+    <string name="size_classic">9×9</string>
+    <string name="info_level">Рівень: %1$s · %2$d×%2$d</string>
+</resources>
